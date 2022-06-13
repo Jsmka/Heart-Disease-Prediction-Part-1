@@ -1,1 +1,3 @@
-# Heart-Disease-Prediction-Part-1
+# Heart-Disease-Prediction-Part - 1️⃣
+
+It is a Mini Project used for Heart Disease Prediction with Python using Logistic Regression Model for Binary Classification.
